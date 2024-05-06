@@ -1,0 +1,99 @@
+{
+  "employees": [
+    {
+      "id": 3,
+      "name": "Bob",
+      "surname": "Smith",
+      "age": 45,
+      "salary": 8000,
+      "position": "Project Manager",
+      "image": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Alice",
+      "surname": "Jonesd",
+      "age": 35,
+      "salary": "2000",
+      "position": "UX Designer",
+      "image": "https://randomuser.me/api/portraits/women/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Emma",
+      "surname": "Johnson",
+      "age": 29,
+      "salary": 4500,
+      "position": "Marketing Manager",
+      "image": "https://randomuser.me/api/portraits/women/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Mike",
+      "surname": "Brown",
+      "age": 38,
+      "salary": 7000,
+      "position": "Product Manager",
+      "image": "https://randomuser.me/api/portraits/men/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Sarah",
+      "surname": "Gonzalez",
+      "age": 33,
+      "salary": 5500,
+      "position": "UX Designer",
+      "image": "https://randomuser.me/api/portraits/women/7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Jack",
+      "surname": "Lee",
+      "age": 42,
+      "salary": 9000,
+      "position": "Senior Backend Developer",
+      "image": "https://randomuser.me/api/portraits/men/8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Lisa",
+      "surname": "Smith",
+      "age": 31,
+      "salary": 5500,
+      "position": "UI Designer",
+      "image": "https://randomuser.me/api/portraits/women/9.jpg"
+    },
+    {
+      "name": "Eren",
+      "surname": "Yeager",
+      "age": "20",
+      "salary": "10000000000",
+      "position": "Destroyer",
+      "image": "https://wallpapers-clan.com/wp-content/uploads/2022/09/attack-on-titan-eren-pfp-1.jpg",
+      "id": "SUTmAbFSpQg-pX7pXoPmy"
+    },
+    {
+      "name": "Salam",
+      "surname": "Salams",
+      "age": 20,
+      "salary": 2500,
+      "position": "Frontend Developer",
+      "image": "https://randomuser.me/api/portraits/women/2.jpg",
+      "id": "olyYPQV7Cv__dYzUWuQfD"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@example.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "email": "bob@example.com",
+      "password": "abcdef"
+    }
+  ]
+}
